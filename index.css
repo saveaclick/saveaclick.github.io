@@ -1,0 +1,10 @@
+html{
+    padding: 1rem 0px;
+    align-items: center;
+}
+
+body{
+    height: 100%;
+
+    border: solid red 1px;
+}
